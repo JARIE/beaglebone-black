@@ -1,3 +1,12 @@
+/*
+ * File: gpio.h
+ * Created: 23, October 2014
+ *
+ * Copyright(c) 2014 Jarielle Catbagan
+ *
+ * BSD-style license
+ */
+
 #ifndef GPIO_H
 #define GPIO_H
 

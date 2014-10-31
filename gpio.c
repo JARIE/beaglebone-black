@@ -1,3 +1,12 @@
+/*
+ * FIle: gpio.c
+ * Created: 23, October 2014
+ *
+ * Copyright(c) 2014 Jarielle Catbagan
+ *
+ * BSD-style license
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/stat.h>
